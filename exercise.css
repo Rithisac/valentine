@@ -1,0 +1,31 @@
+body{
+    background-color: blanchedalmond;
+}
+.img_cat{
+    text-align: center;
+    width: auto%;
+    height: auto%;
+    margin-top: 50px;
+    margin-left: 25%;
+    
+    background-color: rgb(82, 119, 119);
+}
+.no{
+   text-transform: uppercase;
+    font-size: medium;
+    
+}
+.yn{
+    width: 80px;
+    text-transform: uppercase;
+    font-weight: bolder ;
+    margin-top: 30px;
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+.yes{
+    text-transform: uppercase;
+    font-size: medium;
+}
+
